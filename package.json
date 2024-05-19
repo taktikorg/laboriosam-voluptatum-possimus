@@ -1,14 +1,14 @@
 {
   "name": "@taktikorg/laboriosam-voluptatum-possimus",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "taktikangt6",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.2.13",
-    "@juigorg/sit-nam-neque": "^1.0.15",
+    "@dramaorg/esse-praesentium-eligendi": "^2.2.14",
+    "@juigorg/sit-nam-neque": "^1.0.16",
     "@kollorg/dicta-itaque-nemo": "^1.1.15",
     "@swenkerorg/modi-dolorum-provident": "^3.2.12",
     "@taktikorg/aut-distinctio-repellat": "^1.0.4",
